@@ -1,4 +1,3 @@
-sub.c
 #include "monty.h"
 /**
   *f_sub- sustration

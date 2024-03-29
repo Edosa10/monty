@@ -1,4 +1,3 @@
-swap.c
 #include "monty.h"
 /**
  * f_swap - adds the top two elements of the stack.

@@ -1,4 +1,3 @@
-mul.c
 #include "monty.h"
 /**
  * f_mul - multiplies the top two elements of the stack.

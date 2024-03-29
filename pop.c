@@ -1,4 +1,3 @@
-pop.c
 #include "monty.h"
 /**
  * f_pop - prints the top
